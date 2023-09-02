@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Matter Demo</string>
+    <string name="label_tic_tac_toe">Tic Tac Toe</string>
+    <string name="reset">Reset</string>
+</resources>
